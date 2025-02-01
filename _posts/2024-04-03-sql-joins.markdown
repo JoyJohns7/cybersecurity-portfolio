@@ -5,7 +5,7 @@ title: SQL Query
 img: sql.png
 alt: image-alt
 
-project-url: 
+project-url: https://docs.google.com/document/d/1SqM3DZzINMlCNjekh7UBbxU0u1AFehKHsWTUxQ06uVc/edit?usp=sharing
 
 description: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
 ---
